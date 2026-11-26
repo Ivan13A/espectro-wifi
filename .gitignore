@@ -1,0 +1,13 @@
+# Notas locales del proyecto (solo en el PC)
+PROGRESO.md
+CONTEXTO_PROYECTO.md
+.claude/
+
+# Por si acaso: compilados, cachés y llaves en cualquier carpeta
+**/build/
+**/.dart_tool/
+**/.kotlin/
+**/local.properties
+**/key.properties
+*.jks
+*.keystore

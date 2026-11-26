@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Incremento 6: carpeta que FileProvider puede compartir (reporte PDF en
+     API < 29: getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS)). -->
+<paths>
+    <external-files-path name="descargas" path="Download/" />
+</paths>
